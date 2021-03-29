@@ -1,0 +1,32 @@
+.navspecial img{
+     height: 500px;
+}
+
+.customcard{
+   justify-content: center;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+.customcard img{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.rightalignimagetext img{
+    width: 300px;
+    height: 300px;
+}
+
+.horizontalcards-dec{
+    padding-top: 25px;
+}
+
+.textdec{
+    padding-top: 50px;
+}
+
+.imgdec{
+    width: 500px;
+    height: 500px;
+}
